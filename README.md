@@ -35,3 +35,5 @@ Extra
 ---------------------
 This thing should take a long time to load. It is because we are preparing for the blacklist update, and no skidding for blacklist bypass.
 Blacklist will only be given very rarely.
+
+The bootstrapper (encoded) is not too strong because it took 50 years to load when it was strong.

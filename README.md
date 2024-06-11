@@ -37,3 +37,7 @@ This thing should take a long time to load. It is because we are preparing for t
 Blacklist will only be given very rarely.
 
 The bootstrapper (encoded) is not too strong because it took 50 years to load when it was strong.
+I mean, now it might not prevent a pro programmer from breaking through and bypassing blacklist.. (if they somehow get blacklisted)
+But most of the time the people that are blacklisted have no idea how to code.
+
+Blacklist releasing soon, will rarely affect anyone.

@@ -50,3 +50,5 @@ Here are the changelogs:
 - Changed up the foodhax command to make a bit more sense when working with larger numbers of delay like (1)
 - Added an unfoodhax command that disables foodhax, instead of needing the anticheat to kill you.
 - Made the despawn block invisible, making it seamless when despawning.
+- A moderator detector, for the new update.
+- Slightly optimised the code to error a slight bit less (I'm not gonna use roblox-ts because im lazy to type alot for the ts compiler to know everything is correct and exists, sorry if there are bugs where things don't exist :C)

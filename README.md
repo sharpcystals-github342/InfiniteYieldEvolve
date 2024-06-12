@@ -41,3 +41,12 @@ I mean, now it might not prevent a pro programmer from breaking through and bypa
 But most of the time the people that are blacklisted have no idea how to code.
 
 Blacklist releasing soon, will rarely affect anyone.
+
+Current Version
+--------------------
+Currently v2.55,
+Here are the changelogs:
+
+- Changed up the foodhax command to make a bit more sense when working with larger numbers of delay like (1)
+- Added an unfoodhax command that disables foodhax, instead of needing the anticheat to kill you.
+- Made the despawn block invisible, making it seamless when despawning.

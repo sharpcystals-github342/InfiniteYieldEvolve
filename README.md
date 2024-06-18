@@ -52,3 +52,7 @@ Here are the changelogs:
 - Made the despawn block invisible, making it seamless when despawning.
 - A moderator detector, for the new update.
 - Slightly optimised the code to error a slight bit less (I'm not gonna use roblox-ts because im lazy to type alot for the ts compiler to know everything is correct and exists, sorry if there are bugs where things don't exist :C)
+
+Emergency Bug Fix
+-------------------
+- Fixed a bug where it would not detect ClanAtlas being in the game.

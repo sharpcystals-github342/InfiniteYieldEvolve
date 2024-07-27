@@ -51,3 +51,4 @@ Here are the changelogs:
 Emergency Bug Fix
 -------------------
 - Fixed a bug where it would not detect ClanAtlas being in the game.
+- Fixed a bug where it would not show that all moderators have left.

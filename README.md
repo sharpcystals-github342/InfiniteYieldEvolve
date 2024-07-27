@@ -10,6 +10,7 @@ Commands for Evolve
 * foodhax [orbs : true/false] [meat : true/false] [infiniteVisionRange : true/false] [destroyTraps : true/false] [delay : number] | Foodhax. Constantly teleport all food to the center of your body to be consumed, get an infinite vision range, or destroy all traps (Urchin, and builder are only traps that when destroyed, will not work.) Recommended delay of 0. | Example: foodhax false false true false 0
 * unfoodhax | Turn off Foodhax. | Example: unfoodhax
 * spoofbloat | Make your creature massless. Does not actually use bloat, only makes the creature massless. This means that anticheat will still have an effect on you unlike real bloat. | Example: spoofbloat
+* clearbuildinggrid | Clear building grid. | Example: clearbuildinggrid
 
 To-do list
 ----------------------
@@ -33,14 +34,7 @@ anonymous guy (@[hidden])
 
 Extra
 ---------------------
-This thing should take at least 30 seconds to load. It is because we are preparing for the blacklist update, and no skidding for blacklist bypass.
-Blacklist will only be given very rarely.
-
-The bootstrapper (encoded) is not too strong because it took 50 years to load when it was strong.
-I mean, now it might not prevent a pro programmer from breaking through and bypassing blacklist.. (if they somehow get blacklisted)
-But most of the time the people that are blacklisted have no idea how to code.
-
-Blacklist releasing soon, will rarely affect anyone.
+Blacklist idea scrapped cause why not
 
 Current Version
 --------------------
@@ -51,6 +45,7 @@ Here are the changelogs:
 - Added an unfoodhax command that disables foodhax, instead of needing the anticheat to kill you.
 - Made the despawn block invisible, making it seamless when despawning.
 - A moderator detector, for the new update.
+- Clear building grid
 - Slightly optimised the code to error a slight bit less (I'm not gonna use roblox-ts because im lazy to type alot for the ts compiler to know everything is correct and exists, sorry if there are bugs where things don't exist :C)
 
 Emergency Bug Fix

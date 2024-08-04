@@ -25,4 +25,4 @@ To-do list
 - Add a command for checking if players are spawned or not
 - Add more commands for Infinite Yield [Evolve Edition]
 
-# Rework coming soon, adding 10 more commands, seperating the infinite vision range from foodhax, and turning into a seperate command: infvision | uninfvision/noinfvision
+# Rework coming soon, adding 10 more commands, seperating the infinite vision range from foodhax, and turning into a seperate command: infvision | uninfvision/noinfvision, same with traps.
